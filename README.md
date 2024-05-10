@@ -2,6 +2,8 @@
 
 ![github title][github-title]
 
+[![wakatime](https://wakatime.com/badge/user/9d0b5c21-d676-4d92-a8b5-8ad75064523d.svg)](https://wakatime.com/@9d0b5c21-d676-4d92-a8b5-8ad75064523d)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=unqit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
