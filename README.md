@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="./img/readme-typing-svg.herokuapp.svg">
+![github title][github-title]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=unqit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,6 +16,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-unqit-blue)](https://www.youtube.com/channel/UCnN7LWL_lPvQhYq1pfeHEIA)
 
 </div>
+
+[github-title]: https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I%27m+unqit
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
