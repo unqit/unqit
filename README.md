@@ -11,7 +11,7 @@
 ## About me
 - 我是：在读学生
 - 如何联系我：**[Email](awuquren@gmail.com)**
-- Blog：https://unqit.github.com
+- Blog：https://unqit.github.io
 
 <div align="center">
 
