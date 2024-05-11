@@ -20,8 +20,3 @@
 </div>
 
 [github-title]: https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I%27m+unqit
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
